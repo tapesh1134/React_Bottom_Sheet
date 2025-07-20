@@ -19,7 +19,9 @@ function App() {
     </BottomSheet>
   );
 }
+```
 ## Scripts
 
 - `npm start` — run the app
 - `npm run build` — build for production
+- `Deployed Like` - [Live Demo](https://reactbotttomsheet.netlify.app/)
